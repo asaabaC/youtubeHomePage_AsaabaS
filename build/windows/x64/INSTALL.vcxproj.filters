@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\Desktop\YoutubeHomePage\build\windows\x64\CMakeFiles\3bec8302c77886a92d361fb96a9bd8ff\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{8091C2CB-0CF9-391C-B97E-1B54491C7963}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
