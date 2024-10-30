@@ -19,8 +19,8 @@ class CustomAppBar extends StatelessWidget implements PreferredSizeWidget {
           const Icon(Icons.search, color: Colors.black),
           const SizedBox(width: 20),
           const CircleAvatar(
-            backgroundColor: Colors.purple,
-            child: Text('W'), // Initial or Profile Image
+            backgroundColor: Color.fromARGB(255, 14, 218, 95),
+            child: Text('S'), // Initial or Profile Image
           ),
         ],
       ),
